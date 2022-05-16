@@ -15,6 +15,11 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
           rel="stylesheet"
         />
+        <script
+          defer
+          data-domain="explore.alexanderliu.dev"
+          src="https://plausible.io/js/plausible.js"
+        />
       </Head>
       <body>
         <Main />
